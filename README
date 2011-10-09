@@ -1,0 +1,11 @@
+This application is DEGARASHI.
+
+=What is degarashi?
+
+This script was made for setup of server environment.
+
+This script can run tasks of following now.
+- create group
+- create user and set password to created users.
+- install application by yum
+
