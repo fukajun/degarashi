@@ -12,6 +12,7 @@ LIB_DIR=$WORK_DIR/lib
 CONFIG_PATH=$CONF_DIR/task.conf
 INIT_SCRIPT=$LIB_DIR/init_task.sh
 CHECK_FILE=$TEMP_DIR/lock_file
+LOG_FILE=$TEMP_DIR/setup.log
 
 #  Import functions
 source $LIB_DIR/com.sh
