@@ -1,3 +1,4 @@
-vsftpd vsftpd 
-git git
-vim-enhanced vim editor
+git
+vim-enhanced
+vsftpd
+httpd
